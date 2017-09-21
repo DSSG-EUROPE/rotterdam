@@ -24,7 +24,7 @@ To create the environment and install the necessary packages, open the terminal 
 - For Windows: ‘conda env create -f win_environment.yml -n greenroofs’;
 - For Linux/macOS: ‘conda env create -f unix_environment.yml -n greenroofs’.
 
-To activate the environment, type ‘activate greenroofs’ (Windows) or ‘source activate greenroofs’ (macOS and Linux). To deactivate the environment, type ‘deactivate’ (Windows) or ‘source deactivate’ (macOS and Linux).
+To activate the environment, type ‘activate greenroofs’ (Windows) or ‘source activate greenroofs’ (Linux/macOS). To deactivate the environment, type ‘deactivate’ (Windows) or ‘source deactivate’ (Linux/macOS).
 
 You now have a working Python environment.
 
