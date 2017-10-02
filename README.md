@@ -1,6 +1,10 @@
-# README
-
+# Data Science for Social Good (Europe) 2017
 ## Identifying Green Rooftops in Rotterdam to Improve Urban Planning
+
+**Fellows**: Tiago Louro Alves, Diogo Conceição, Carlos Gonçalves, João Louro  
+**Technical Mentor**: Rodrigo Belo, Qiwei Han
+**Project Manager**: N. Gizem Bacakhesizlar, João Dinis Fernandes
+**Project Partner**: The Municipality of Rotterdam
 
 ### Overview
 
