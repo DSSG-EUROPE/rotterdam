@@ -1,11 +1,6 @@
 # Data Science for Social Good (Europe) 2017
 ## Identifying Green Rooftops in Rotterdam to Improve Urban Planning
 
-**Fellows**: Tiago Louro Alves, Diogo Conceição, Carlos Gonçalves, João Louro  
-**Technical Mentor**: Rodrigo Belo, Qiwei Han
-**Project Manager**: N. Gizem Bacakhesizlar, João Dinis Fernandes
-**Project Partner**: The Municipality of Rotterdam
-
 ### Overview
 
 DSSG has partnered with the Municipality of Rotterdam to identify green rooftops in Rotterdam for a given Area of Interest (AoI). In our case, our AoI was the city center.AoI). In our case, our AoI was the city center.AoI). In our case, our AoI was the city center.AoI). In our case, our AoI was the city center.
@@ -50,3 +45,14 @@ You now have a working Python environment.
     2. Save ‘classify.py’; and,
 
 5. Run ‘classify.py’ (i.e., type ‘python classify.py in the command line’).
+
+--- 
+### Authors
+
+This project was conducted as part of [Data Science for Social Good (DSSG) Europe 2017 fellowship](https://dssg.uchicago.edu/europe/) in partnership with the Municipality of Rotterdam.
+
+Student Fellows: [Tiago Louro Alves](https://www.linkedin.com/in/tlouroalves/), [Diogo Conceição](https://www.linkedin.com/in/diogonunesconceicao/), [Carlos Gonçalves](https://www.linkedin.com/in/carlosdiasgoncalves/), and [João Louro](https://www.linkedin.com/in/fernandeslouro/)
+
+Technical mentor: [Rodrigo Belo](https://www.linkedin.com/in/rodrigobelo/), [Qiwei Han](https://www.linkedin.com/in/qiwei-han-036a5220/)
+
+Project manager: [N. Gizem Bacakhesizlar](https://www.linkedin.com/in/ngizembacaksizlar/), [João Dinis Fernandes](https://www.linkedin.com/in/joaodinisfernandes/)
