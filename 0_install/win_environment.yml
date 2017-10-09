@@ -203,7 +203,7 @@ dependencies:
 - tornado=4.5.1=py35_0
 - traitlets=4.3.2=py35_0
 - typing=3.6.2=py35_0
-- udunits2=2.2.23=vc14_0
+- udunits2=2.2.23
 - unicodecsv=0.14.1=py35_0
 - urllib3=1.22=py35_0
 - vc=14=0
