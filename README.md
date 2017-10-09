@@ -1,5 +1,4 @@
-# README
-
+# Data Science for Social Good (Europe) 2017
 ## Identifying Green Rooftops in Rotterdam to Improve Urban Planning
 
 ### Overview
@@ -24,7 +23,7 @@ To create the environment and install the necessary packages, open the terminal 
 - For Windows: ‘conda env create -f win_environment.yml -n greenroofs’;
 - For Linux/macOS: ‘conda env create -f unix_environment.yml -n greenroofs’.
 
-To activate the environment, type ‘activate greenroofs’ (Windows) or ‘source activate greenroofs’ (macOS and Linux). To deactivate the environment, type ‘deactivate’ (Windows) or ‘source deactivate’ (macOS and Linux).
+To activate the environment, type ‘activate greenroofs’ (Windows) or ‘source activate greenroofs’ (Linux/macOS). To deactivate the environment, type ‘deactivate’ (Windows) or ‘source deactivate’ (Linux/macOS).
 
 You now have a working Python environment.
 
@@ -46,3 +45,14 @@ You now have a working Python environment.
     2. Save ‘classify.py’; and,
 
 5. Run ‘classify.py’ (i.e., type ‘python classify.py in the command line’).
+
+--- 
+### Authors
+
+This project was conducted as part of [Data Science for Social Good (DSSG) Europe 2017 fellowship](https://dssg.uchicago.edu/europe/) in partnership with the Municipality of Rotterdam.
+
+Student Fellows: [Tiago Louro Alves](https://www.linkedin.com/in/tlouroalves/), [Diogo Conceição](https://www.linkedin.com/in/diogonunesconceicao/), [Carlos Gonçalves](https://www.linkedin.com/in/carlosdiasgoncalves/), and [João Louro](https://www.linkedin.com/in/fernandeslouro/)
+
+Technical mentor: [Rodrigo Belo](https://www.linkedin.com/in/rodrigobelo/), [Qiwei Han](https://www.linkedin.com/in/qiwei-han-036a5220/)
+
+Project manager: [N. Gizem Bacakhesizlar](https://www.linkedin.com/in/ngizembacaksizlar/), [João Dinis Fernandes](https://www.linkedin.com/in/joaodinisfernandes/)
