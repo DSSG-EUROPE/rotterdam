@@ -3,7 +3,7 @@
 
 ### Overview
 
-DSSG has partnered with the Municipality of Rotterdam to identify green rooftops in Rotterdam for a given Area of Interest (AoI). In our case, our AoI was the city center.AoI). In our case, our AoI was the city center.AoI). In our case, our AoI was the city center.AoI). In our case, our AoI was the city center.
+DSSG has partnered with the Municipality of Rotterdam to identify green rooftops in Rotterdam for a given Area of Interest (AoI). In our case, the AoI was the city center.
 
 To achieve this goal, we build a multi-class classification model for rooftops in Rotterdam, classifying them in ‘non-vegetation’, ‘vegetation,’ and ‘trees.’ Our model is used to produce three deliverables for the Municipality of Rotterdam:
 
